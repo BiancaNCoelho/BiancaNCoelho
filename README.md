@@ -9,11 +9,11 @@ My name is Bianca Nunes Coelho and I have a degree in Computer Engineering. I'm 
 
 ### 🖥️ Tech
 
-  **Programming Languages** --> C, C++, Java, Python, Rust, GO, C#, PHP, Assembly
-  **Frameworks** --> Vue.js, Node,js
-  **Tools** --> Git, Docker
-  **Databases** --> MySQL, MariaDB
-  **Others** --> API integration, VHDL
+  **Programming Languages** --> C, C++, Java, Python, Rust, GO, C#, PHP, Assembly <br>
+  **Frameworks** --> Vue.js, Node,js <br>
+  **Tools** --> Git, Docker <br>
+  **Databases** --> MySQL, MariaDB <br>
+  **Others** --> API integration, VHDL <br>
 
 ### 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaNCoelho&hide_progress=true)
