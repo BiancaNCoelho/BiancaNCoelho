@@ -2,7 +2,7 @@
 
 ### About me
 
-My name is Bianca Nunes Coelho and I have a degree in Computer Engineering. I'm currently studying for a master's degree at UFPel as well as taking the CI Inovador residency in Microelectronics. I speak three languages: English, Portuguese and Japanese. I am very interested in working and studying.
+My name is Bianca Nunes Coelho and I have a degree in Computer Engineering. I speak three languages: English, Portuguese and Japanese. I am very interested in working and studying.
 
 - 🎓 **Background** --> Computer Engineer
 - 🐰 **Interested in**  --> Microelectronics, Video Coding/Compression, Video Game Programming and AI.
